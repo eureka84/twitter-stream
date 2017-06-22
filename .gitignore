@@ -1,0 +1,6 @@
+README.md
+messages.txt
+*.iml
+.idea/
+src/main/resources/twitter-credentials.properties
+target/
